@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-`cd path/to/html-encoder-cli`
+cd path/to/html-encoder-cli
 ```
 
 ```sh
