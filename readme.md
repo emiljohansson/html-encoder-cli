@@ -14,7 +14,7 @@ npm link
 
 ## Usage
 
-```js
+```sh
 html-encoder $'<span>Hello</span>'
 // => '&lt;span&gt;Hello&lt;/span&gt;'
 ```
