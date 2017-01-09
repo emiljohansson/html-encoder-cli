@@ -1,0 +1,18 @@
+{
+  "name": "html-encoder-cli",
+  "version": "0.0.0",
+  "description": "Encodes html thought the command line",
+  "main": "index.js",
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "bin": {
+    "html-encoder": "cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {}
+}
